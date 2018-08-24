@@ -15,3 +15,7 @@ $ cd Desktop
 {: .bash}
 
 [workshop-setup]: https://carpentries.github.io/workshop-template/#git
+
+
+The git repository we used is: https://github.com/bham-carpentries/2018-08-23-bham-rcode
+
