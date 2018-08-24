@@ -17,5 +17,10 @@ $ cd Desktop
 [workshop-setup]: https://carpentries.github.io/workshop-template/#git
 
 
-The git repository we used is: https://github.com/bham-carpentries/2018-08-23-bham-rcode
+The git repository we used is: [https://github.com/bham-carpentries/2018-08-23-bham-rcode](https://github.com/bham-carpentries/2018-08-23-bham-rcode) and we can clone it with
+
+~~~
+$ git clone https://github.com/bham-carpentries/2018-08-23-bham-rcode.git
+~~~
+{: .bash}
 
