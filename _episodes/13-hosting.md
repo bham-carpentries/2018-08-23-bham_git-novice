@@ -1,5 +1,5 @@
 ---
-title: Supplemental: Hosting
+title: "Supplemental: Hosting"
 teaching: 10
 exercises: 0
 questions:
